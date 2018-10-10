@@ -77,7 +77,7 @@ Move into '/usr/bin' and remove ext
 $ cp truncate.pl /usr/bin/truncate
 ```
 
-change permissions and owner
+Change permissions and owner
 ```
 $ chmod 755 /usr/bin/truncate
 $ sudo chown root:wheel /usr/bin/truncate
